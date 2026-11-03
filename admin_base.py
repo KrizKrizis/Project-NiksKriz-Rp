@@ -1,4 +1,4 @@
-﻿# admin/base.py
+# admin/base.py
 import logging
 from vkbottle.bot import Blueprint, Message
 from db.database import db
