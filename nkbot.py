@@ -1,4 +1,4 @@
-﻿# nkbot.py
+# nkbot.py
 import logging
 import importlib
 import pkgutil
